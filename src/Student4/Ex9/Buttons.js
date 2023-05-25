@@ -14,6 +14,7 @@ export const Buttons = () => {
   };
   const handleReset = () => {
     setClicked1(false);
+
     setClicked2(false);
   };
 

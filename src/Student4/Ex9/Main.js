@@ -1,10 +1,11 @@
-import React from 'react'
-import './Main.css'
+import React from "react";
+import "./Main.css";
+import { Buttons } from "./Buttons";
 
 export const Main = () => {
   return (
     <div>
-      TODO...
+      <Buttons />
     </div>
-  )
-}
+  );
+};
